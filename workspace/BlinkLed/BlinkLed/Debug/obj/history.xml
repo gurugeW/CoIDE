@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.8.1 mingw32 -mcpu=cortex-m0 -mthumb -g2 -Wall -O0 -c -DSTM32F051R8T6 -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master\stm32f051x8_boot -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master\stm32f051x8_boot\source\Inc -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master\stm32f051x8_boot\source -I..\..\..\..\..\..\..\CoIDE\workspace\BlinkLed\components\coocox-master\cmsis_core\source">
+      <target file="stm32f0xx_hal_i2s.o" lastModified="150d91b75ca">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2s.c" lastModified="150d52f1cd4"/>
+      </target>
+      <target file="system_stm32f0xx.o" lastModified="150d91b97ea">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.c" lastModified="150d52f1b87"/>
+      </target>
+      <target file="stm32f0xx_hal_irda.o" lastModified="150d91ba7b2">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_irda.c" lastModified="150d52f1d70"/>
+      </target>
+      <target file="syscalls.o" lastModified="150d9f54296">
+         <source file="..\..\..\components\coocox-master\C_library\source\syscalls.c" lastModified="150d9f3d0f4"/>
+      </target>
+      <target file="stm32f0xx_hal_uart_ex.o" lastModified="150d91b9e15">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart_ex.c" lastModified="150d52f1b7b"/>
+      </target>
+      <target file="stm32f0xx_hal_pwr_ex.o" lastModified="150d91b9ab7">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr_ex.c" lastModified="150d52f1f07"/>
+      </target>
+      <target file="stm32f0xx_hal_adc_ex.o" lastModified="150d91b7cbd">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc_ex.c" lastModified="150d52f1cf7"/>
+      </target>
+      <target file="stm32f0xx_hal_wwdg.o" lastModified="150d91b6e9c">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_wwdg.c" lastModified="150d52f201d"/>
+      </target>
+      <target file="startup_stm32f051x8.o" lastModified="150d91b9720">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\startup_stm32f051x8.s" lastModified="150d52f1dd9"/>
+      </target>
+      <target file="stm32f0xx_hal_smartcard.o" lastModified="150d91b7e94">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard.c" lastModified="150d52f1beb"/>
+      </target>
+      <target file="stm32f0xx_hal_tim.o" lastModified="150d91ba1f3">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim.c" lastModified="150d52f1fcb"/>
+      </target>
+      <target file="stm32f0xx_hal_cortex.o" lastModified="150d91b8bfc">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cortex.c" lastModified="150d52f1df4"/>
+      </target>
+      <target file="stm32f0xx_hal_crc_ex.o" lastModified="150d91b7bae">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc_ex.c" lastModified="150d52f1c74"/>
+      </target>
+      <target file="stm32f0xx_hal_dac_ex.o" lastModified="150d91b6d75">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac_ex.c" lastModified="150d52f2010"/>
+      </target>
+      <target file="stm32f0xx_hal_uart.o" lastModified="150d91b78d9">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart.c" lastModified="150d52f1e8b"/>
+      </target>
+      <target file="stm32f0xx_hal_cec.o" lastModified="150d91b81d3">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cec.c" lastModified="150d52f1f99"/>
+      </target>
+      <target file="stm32f0xx_hal_rtc.o" lastModified="150d91b999f">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc.c" lastModified="150d52f1ce3"/>
+      </target>
+      <target file="stm32f0xx_hal_rcc_ex.o" lastModified="150d91b8352">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc_ex.c" lastModified="150d52f1bc2"/>
+      </target>
+      <target file="stm32f0xx_hal_rcc.o" lastModified="150d91b710c">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc.c" lastModified="150d52f208e"/>
+      </target>
+      <target file="stm32f0xx_hal_dac.o" lastModified="150d91b6c3c">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac.c" lastModified="150d52f1f28"/>
+      </target>
+      <target file="stm32f0xx_hal_can.o" lastModified="150d91b6b04">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_can.c" lastModified="150d52f1b96"/>
+      </target>
+      <target file="stm32f0xx_hal_usart.o" lastModified="150d91b8ab5">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_usart.c" lastModified="150d52f1ee3"/>
+      </target>
+      <target file="stm32f0xx_hal_smbus.o" lastModified="150d91ba411">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smbus.c" lastModified="150d52f20df"/>
+      </target>
+      <target file="stm32f0xx_hal_pwr.o" lastModified="150d91b68f4">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr.c" lastModified="150d52f1da7"/>
+      </target>
+      <target file="stm32f0xx_hal_tsc.o" lastModified="150d91b8716">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tsc.c" lastModified="150d52f1f35"/>
+      </target>
+      <target file="stm32f0xx_hal_rtc_ex.o" lastModified="150d91b8035">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc_ex.c" lastModified="150d52f1eab"/>
+      </target>
+      <target file="stm32f0xx_hal_adc.o" lastModified="150d91b73fe">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc.c" lastModified="150d52f1eba"/>
+      </target>
+      <target file="stm32f0xx_hal_smartcard_ex.o" lastModified="150d91b6a09">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard_ex.c" lastModified="150d52f1dcc"/>
+      </target>
+      <target file="stm32f0xx_hal_i2c_ex.o" lastModified="150d91b96f9">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c_ex.c" lastModified="150d52f209a"/>
+      </target>
+      <target file="stm32f0xx_hal_flash.o" lastModified="150d91b94cd">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash.c" lastModified="150d52f2082"/>
+      </target>
+      <target file="stm32f0xx_hal_dma.o" lastModified="150d91b8884">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dma.c" lastModified="150d52f1fa9"/>
+      </target>
+      <target file="stm32f0xx_hal_comp.o" lastModified="150d91ba5ed">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_comp.c" lastModified="150d52f1de6"/>
+      </target>
+      <target file="stm32f0xx_hal.o" lastModified="150d91b723b">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal.c" lastModified="150d52f1e0d"/>
+      </target>
+      <target file="stm32f0xx_hal_flash_ex.o" lastModified="150d91b85b4">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash_ex.c" lastModified="150d52f1e5b"/>
+      </target>
+      <target file="stm32f0xx_hal_crc.o" lastModified="150d91b6fd2">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc.c" lastModified="150d52f1c1a"/>
+      </target>
+      <target file="stm32f0xx_hal_tim_ex.o" lastModified="150d91b9cc2">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim_ex.c" lastModified="150d52f1d1d"/>
+      </target>
+      <target file="stm32f0xx_hal_pcd_ex.o" lastModified="150d91b95d2">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd_ex.c" lastModified="150d52f2107"/>
+      </target>
+      <target file="stm32f0xx_hal_i2c.o" lastModified="150d91b9377">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c.c" lastModified="150d52f1cb4"/>
+      </target>
+      <target file="stm32f0xx_hal_spi.o" lastModified="150d91b8fe0">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_spi.c" lastModified="150d52f1d2b"/>
+      </target>
+      <target file="main.o" lastModified="150dae6e74a">
+         <source file="..\..\..\app\main.c" lastModified="150daeed82a"/>
+      </target>
+      <target file="stm32f0xx_hal_ppp.o" lastModified="150d91b8451">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_ppp.c" lastModified="150d52f1e36"/>
+      </target>
+      <target file="stm32f0xx_hal_iwdg.o" lastModified="150d91b8d25">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_iwdg.c" lastModified="150d52f20cf"/>
+      </target>
+      <target file="stm32f0xx_hal_pcd.o" lastModified="150d91b76c4">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd.c" lastModified="150d52f1e28"/>
+      </target>
+      <target file="stm32f0xx_hal_gpio.o" lastModified="150d91ba563">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_gpio.c" lastModified="150d52f1fd7"/>
+      </target>
+      <target file="stm32f0xx_hal_msp_template.o" lastModified="150d91b79d8">
+         <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_msp_template.c" lastModified="150d52f1c3f"/>
+      </target>
+   </processor>
+</history>

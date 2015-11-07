@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g2 -Map=BlinkLed.map -O0 --gc-sections -LC:\Users\asuslap\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\BlinkLed -TC:\Users\asuslap\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\BlinkLed/arm-gcc-link.ld -g">
+      <target file="BlinkLed.elf" lastModified="150dae6ea66">
+         <source file="..\obj\stm32f0xx_hal_dma.o" lastModified="150d91b8884"/>
+         <source file="..\obj\stm32f0xx_hal_smartcard_ex.o" lastModified="150d91b6a09"/>
+         <source file="..\obj\stm32f0xx_hal_rcc_ex.o" lastModified="150d91b8352"/>
+         <source file="..\obj\stm32f0xx_hal_cortex.o" lastModified="150d91b8bfc"/>
+         <source file="..\obj\stm32f0xx_hal_flash.o" lastModified="150d91b94cd"/>
+         <source file="..\obj\stm32f0xx_hal_tim_ex.o" lastModified="150d91b9cc2"/>
+         <source file="..\obj\stm32f0xx_hal_pwr.o" lastModified="150d91b68f4"/>
+         <source file="..\obj\stm32f0xx_hal_flash_ex.o" lastModified="150d91b85b4"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="150d91b97ea"/>
+         <source file="..\obj\stm32f0xx_hal_crc_ex.o" lastModified="150d91b7bae"/>
+         <source file="..\obj\stm32f0xx_hal_uart_ex.o" lastModified="150d91b9e15"/>
+         <source file="..\obj\stm32f0xx_hal_smbus.o" lastModified="150d91ba411"/>
+         <source file="..\obj\stm32f0xx_hal_iwdg.o" lastModified="150d91b8d25"/>
+         <source file="..\obj\stm32f0xx_hal_uart.o" lastModified="150d91b78d9"/>
+         <source file="..\obj\stm32f0xx_hal_irda.o" lastModified="150d91ba7b2"/>
+         <source file="..\obj\stm32f0xx_hal_tsc.o" lastModified="150d91b8716"/>
+         <source file="..\obj\stm32f0xx_hal_comp.o" lastModified="150d91ba5ed"/>
+         <source file="..\obj\syscalls.o" lastModified="150d9f54296"/>
+         <source file="..\obj\stm32f0xx_hal_dac.o" lastModified="150d91b6c3c"/>
+         <source file="..\obj\stm32f0xx_hal_crc.o" lastModified="150d91b6fd2"/>
+         <source file="..\obj\stm32f0xx_hal_wwdg.o" lastModified="150d91b6e9c"/>
+         <source file="..\obj\stm32f0xx_hal_usart.o" lastModified="150d91b8ab5"/>
+         <source file="..\obj\stm32f0xx_hal_pwr_ex.o" lastModified="150d91b9ab7"/>
+         <source file="..\obj\stm32f0xx_hal_i2c.o" lastModified="150d91b9377"/>
+         <source file="..\obj\main.o" lastModified="150dae6e74a"/>
+         <source file="..\obj\stm32f0xx_hal_i2s.o" lastModified="150d91b75ca"/>
+         <source file="..\obj\stm32f0xx_hal_smartcard.o" lastModified="150d91b7e94"/>
+         <source file="..\obj\startup_stm32f051x8.o" lastModified="150d91b9720"/>
+         <source file="..\obj\stm32f0xx_hal_msp_template.o" lastModified="150d91b79d8"/>
+         <source file="..\obj\stm32f0xx_hal_dac_ex.o" lastModified="150d91b6d75"/>
+         <source file="..\obj\stm32f0xx_hal_cec.o" lastModified="150d91b81d3"/>
+         <source file="..\obj\stm32f0xx_hal_rtc.o" lastModified="150d91b999f"/>
+         <source file="..\obj\stm32f0xx_hal_i2c_ex.o" lastModified="150d91b96f9"/>
+         <source file="..\obj\stm32f0xx_hal.o" lastModified="150d91b723b"/>
+         <source file="..\obj\stm32f0xx_hal_adc.o" lastModified="150d91b73fe"/>
+         <source file="..\obj\stm32f0xx_hal_tim.o" lastModified="150d91ba1f3"/>
+         <source file="..\obj\stm32f0xx_hal_spi.o" lastModified="150d91b8fe0"/>
+         <source file="..\obj\stm32f0xx_hal_pcd_ex.o" lastModified="150d91b95d2"/>
+         <source file="..\obj\stm32f0xx_hal_adc_ex.o" lastModified="150d91b7cbd"/>
+         <source file="..\obj\stm32f0xx_hal_pcd.o" lastModified="150d91b76c4"/>
+         <source file="..\obj\stm32f0xx_hal_gpio.o" lastModified="150d91ba563"/>
+         <source file="..\obj\stm32f0xx_hal_rtc_ex.o" lastModified="150d91b8035"/>
+         <source file="..\obj\stm32f0xx_hal_ppp.o" lastModified="150d91b8451"/>
+         <source file="..\obj\stm32f0xx_hal_rcc.o" lastModified="150d91b710c"/>
+         <source file="..\obj\stm32f0xx_hal_can.o" lastModified="150d91b6b04"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g2 -Map=timer.map -O0 --gc-sections -LC:\Users\asuslap\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\timer -TC:\Users\asuslap\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\timer/arm-gcc-link.ld -g">
+      <target file="timer.elf" lastModified="150deaac13e">
+         <source file="..\obj\stm32f0xx_hal_dma.o" lastModified="150dd4f7818"/>
+         <source file="..\obj\stm32f0xx_hal_smartcard_ex.o" lastModified="150dd4f5836"/>
+         <source file="..\obj\stm32f0xx_hal_rcc_ex.o" lastModified="150dd4f72a4"/>
+         <source file="..\obj\stm32f0xx_hal_cortex.o" lastModified="150dd4f7b95"/>
+         <source file="..\obj\stm32f0xx_hal_flash.o" lastModified="150dd4f85a9"/>
+         <source file="..\obj\stm32f0xx_hal_tim_ex.o" lastModified="150dd4f8dd3"/>
+         <source file="..\obj\stm32f0xx_hal_flash_ex.o" lastModified="150dd4f7528"/>
+         <source file="..\obj\stm32f0xx_hal_pwr.o" lastModified="150dd4f5714"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="150dd4f88e9"/>
+         <source file="..\obj\stm32f0xx_hal_crc_ex.o" lastModified="150dd4f6ac0"/>
+         <source file="..\obj\stm32f0xx_hal_uart_ex.o" lastModified="150dd4f8f32"/>
+         <source file="..\obj\stm32f0xx_hal_smbus.o" lastModified="150dd4f9554"/>
+         <source file="..\obj\stm32f0xx_hal_iwdg.o" lastModified="150dd4f7cca"/>
+         <source file="..\obj\stm32f0xx_hal_uart.o" lastModified="150dd4f67d5"/>
+         <source file="..\obj\stm32f0xx_hal_irda.o" lastModified="150dd4f991b"/>
+         <source file="..\obj\stm32f0xx_hal_tsc.o" lastModified="150dd4f768e"/>
+         <source file="..\obj\syscalls.o" lastModified="150dd4f8092"/>
+         <source file="..\obj\stm32f0xx_hal_comp.o" lastModified="150dd4f974c"/>
+         <source file="..\obj\stm32f0xx_hal_dac.o" lastModified="150dd4f5a83"/>
+         <source file="..\obj\stm32f0xx_hal_crc.o" lastModified="150dd4f5e6b"/>
+         <source file="..\obj\stm32f0xx_hal_wwdg.o" lastModified="150dd4f5d1a"/>
+         <source file="..\obj\stm32f0xx_hal_usart.o" lastModified="150dd4f7a44"/>
+         <source file="..\obj\stm32f0xx_hal_pwr_ex.o" lastModified="150dd4f8bcd"/>
+         <source file="..\obj\stm32f0xx_hal_i2c.o" lastModified="150dd4f844e"/>
+         <source file="..\obj\main.o" lastModified="150deaabe52"/>
+         <source file="..\obj\stm32f0xx_hal_i2s.o" lastModified="150dd4f649e"/>
+         <source file="..\obj\stm32f0xx_hal_smartcard.o" lastModified="150dd4f6dc7"/>
+         <source file="..\obj\startup_stm32f051x8.o" lastModified="150dd4f8813"/>
+         <source file="..\obj\stm32f0xx_hal_msp_template.o" lastModified="150dd4f68ec"/>
+         <source file="..\obj\stm32f0xx_hal_dac_ex.o" lastModified="150dd4f5be5"/>
+         <source file="..\obj\stm32f0xx_hal_cec.o" lastModified="150dd4f7118"/>
+         <source file="..\obj\stm32f0xx_hal_rtc.o" lastModified="150dd4f8aa9"/>
+         <source file="..\obj\stm32f0xx_hal.o" lastModified="150dd4f60f3"/>
+         <source file="..\obj\stm32f0xx_hal_i2c_ex.o" lastModified="150dd4f87e6"/>
+         <source file="..\obj\stm32f0xx_hal_adc.o" lastModified="150dd4f62c2"/>
+         <source file="..\obj\stm32f0xx_hal_tim.o" lastModified="150dd4f932a"/>
+         <source file="..\obj\stm32f0xx_hal_spi.o" lastModified="150dd4f7f9a"/>
+         <source file="..\obj\stm32f0xx_hal_pcd_ex.o" lastModified="150dd4f86b5"/>
+         <source file="..\obj\stm32f0xx_hal_adc_ex.o" lastModified="150dd4f6be6"/>
+         <source file="..\obj\stm32f0xx_hal_pcd.o" lastModified="150dd4f65b5"/>
+         <source file="..\obj\stm32f0xx_hal_gpio.o" lastModified="150dd4f96af"/>
+         <source file="..\obj\stm32f0xx_hal_rtc_ex.o" lastModified="150dd4f6f79"/>
+         <source file="..\obj\stm32f0xx_hal_ppp.o" lastModified="150dd4f73b8"/>
+         <source file="..\obj\stm32f0xx_hal_rcc.o" lastModified="150dd4f5faf"/>
+         <source file="..\obj\stm32f0xx_hal_can.o" lastModified="150dd4f5944"/>
+      </target>
+   </processor>
+</history>

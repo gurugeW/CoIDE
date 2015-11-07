@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot\source /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\cmsis_core\source /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\cmsis_core /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot\source\Inc /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master /I..\..\..\..\..\..\..\CoIDE\workspace\timer">
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc_ex.c" lastModified="150dcc49709">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h" lastModified="150dcc49856">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc.c" lastModified="150dcc49638">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc.c" lastModified="150dcc498b8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h" lastModified="150dcc49676">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_usart.c" lastModified="150dcc498e3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h" lastModified="150dcc49902">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard_ex.h" lastModified="150dcc49b17">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_gpio.c" lastModified="150dcc499c2">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h" lastModified="150dcc4962b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h" lastModified="150dcc49823">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_ppp.c" lastModified="150dcc4983e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h" lastModified="150dcc49a11">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd.c" lastModified="150dcc4982f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc_ex.c" lastModified="150dcc498ab">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx_hal_conf.h" lastModified="150d52f1e67">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc_ex.c" lastModified="150dcc495ec">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h" lastModified="150dcc49af3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h" lastModified="150dcc49790">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart.c" lastModified="150dcc4988d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_iwdg.c" lastModified="150dcc49aad">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c.c" lastModified="150dcc496cd">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h" lastModified="150dcc49949">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr.c" lastModified="150dcc497bb">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_can.c" lastModified="150dcc495c1">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h" lastModified="150dcc49809">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc.c" lastModified="150dcc496f7">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard.c" lastModified="150dcc4960d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard_ex.c" lastModified="150dcc497db">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim.c" lastModified="150dcc499b5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd_ex.h" lastModified="150dcc497cd">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.h" lastModified="150dcc495cd">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash_ex.h" lastModified="150dcc498c4">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.c" lastModified="150dcc495b3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_irda.c" lastModified="150dcc49782">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc_ex.h" lastModified="150dcc499d8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h" lastModified="150dcc49acb">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h" lastModified="150dcc49588">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac.c" lastModified="150dcc49913">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_wwdg.c" lastModified="150dcc49a01">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cortex.c" lastModified="150dcc49803">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smbus.c" lastModified="150dcc49abe">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h" lastModified="150dcc4992e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h" lastModified="150dcc4959a">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_conf_template.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx_hal_conf.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda_ex.h" lastModified="150dcc49965">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd_ex.c" lastModified="150dcc49ae6">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim_ex.h" lastModified="150dcc49a9e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma_ex.h" lastModified="150dcc49959">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart_ex.h" lastModified="150dcc49a3b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h" lastModified="150dcc49578">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc_ex.c" lastModified="150dcc49692">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal.c" lastModified="150dcc49816">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h" lastModified="150dcc49717">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\startup_stm32f051x8.s" lastModified="150dcc497e7">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h" lastModified="150dcc4961d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h" lastModified="150dcc4993b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h" lastModified="150dcc495f2">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h" lastModified="150dcc49b01">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h" lastModified="150dcc4989a">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h" lastModified="150dcc49ad9">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h" lastModified="150dcc499d3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c_ex.h" lastModified="150dcc49a84">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim_ex.c" lastModified="150dcc4972e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart_ex.h" lastModified="150dcc499a6">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h" lastModified="150dcc49a2c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h" lastModified="150dcc497ad">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cec.c" lastModified="150dcc49982">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_conf_template.h" lastModified="150dcc495da">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2s.c" lastModified="150dcc496e8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_comp.c" lastModified="150dcc497f3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h" lastModified="150dcc49773">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h" lastModified="150dcc499e5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_msp_template.c" lastModified="150dcc4965c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h" lastModified="150dcc498e9">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_spi.c" lastModified="150dcc4973c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dma.c" lastModified="150dcc49992">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio_ex.h" lastModified="150dcc49975">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c_ex.c" lastModified="150dcc49a7f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash_ex.c" lastModified="150dcc49865">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc.c" lastModified="150dcc49a73">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac_ex.h" lastModified="150dcc495ff">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr_ex.h" lastModified="150dcc496aa">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tsc.c" lastModified="150dcc49920">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart_ex.c" lastModified="150dcc495a7">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc_ex.h" lastModified="150dcc49877">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc_ex.h" lastModified="150dcc4979f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac_ex.c" lastModified="150dcc499f3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr_ex.c" lastModified="150dcc498f5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash.c" lastModified="150dcc49a67">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc_ex.h" lastModified="150dcc4956b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\..\.. /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot\source /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\cmsis_core\source /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\cmsis_core /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master\stm32f051x8_boot\source\Inc /I..\..\..\..\..\..\..\CoIDE\workspace\timer\components\coocox-master /I..\..\..\..\..\..\..\CoIDE\workspace\timer /I..\..\..\..\..\..\..\Desktop\stm32f0 /I..\..\..\..\..\..\..\Desktop">
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc_ex.c" lastModified="150dcc49709">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h" lastModified="150dcc49856">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc.c" lastModified="150dcc49638">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_adc.c" lastModified="150dcc498b8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f051x8.h" lastModified="150dcc49e41">
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cm0.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h" lastModified="150dcc49676">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_usart.c" lastModified="150dcc498e3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h" lastModified="150dcc49902">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard_ex.h" lastModified="150dcc49b17">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_gpio.c" lastModified="150dcc499c2">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cmFunc.h" lastModified="150dcc47dcc">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h" lastModified="150dcc4962b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h" lastModified="150dcc49823">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_ppp.c" lastModified="150dcc4983e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h" lastModified="150dcc49a11">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd.c" lastModified="150dcc4982f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc_ex.c" lastModified="150dcc498ab">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx_hal_conf.h" lastModified="150d52f1e67">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc_ex.c" lastModified="150dcc495ec">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h" lastModified="150dcc49af3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h" lastModified="150dcc49790">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart.c" lastModified="150dcc4988d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_iwdg.c" lastModified="150dcc49aad">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c.c" lastModified="150dcc496cd">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h" lastModified="150dcc49949">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr.c" lastModified="150dcc497bb">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_can.c" lastModified="150dcc495c1">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h" lastModified="150dcc49809">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rtc.c" lastModified="150dcc496f7">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\antilib_gpio.h" lastModified="150dd4c53eb">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard.c" lastModified="150dcc4960d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smartcard_ex.c" lastModified="150dcc497db">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim.c" lastModified="150dcc499b5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd_ex.h" lastModified="150dcc497cd">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.h" lastModified="150dcc495cd">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash_ex.h" lastModified="150dcc498c4">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cmInstr.h" lastModified="150dcc47d30">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\system_stm32f0xx.c" lastModified="150dcc495b3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_irda.c" lastModified="150dcc49782">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc_ex.h" lastModified="150dcc499d8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h" lastModified="150dcc49acb">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h" lastModified="150dcc49588">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac.c" lastModified="150dcc49913">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_wwdg.c" lastModified="150dcc49a01">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cortex.c" lastModified="150dcc49803">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_smbus.c" lastModified="150dcc49abe">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h" lastModified="150dcc4992e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h" lastModified="150dcc4959a">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_conf_template.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx_hal_conf.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda_ex.h" lastModified="150dcc49965">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pcd_ex.c" lastModified="150dcc49ae6">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim_ex.h" lastModified="150dcc49a9e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma_ex.h" lastModified="150dcc49959">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart_ex.h" lastModified="150dcc49a3b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h" lastModified="150dcc49578">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_crc_ex.c" lastModified="150dcc49692">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal.c" lastModified="150dcc49816">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h" lastModified="150dcc49717">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\startup_stm32f051x8.s" lastModified="150dcc497e7">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h" lastModified="150dcc4961d">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h" lastModified="150dcc4993b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h" lastModified="150dcc495f2">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h" lastModified="150dcc49b01">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h" lastModified="150dcc4989a">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h" lastModified="150dcc49ad9">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h" lastModified="150dcc499d3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c_ex.h" lastModified="150dcc49a84">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tim_ex.c" lastModified="150dcc4972e">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart_ex.h" lastModified="150dcc499a6">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx.h" lastModified="150dcc4c6a8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f051x8.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h" lastModified="150dcc49a2c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h" lastModified="150dcc497ad">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_cec.c" lastModified="150dcc49982">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_conf_template.h" lastModified="150dcc495da">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dma.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cortex.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_can.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_cec.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_comp.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_crc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_flash.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_i2s.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_irda.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_iwdg.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pcd.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smartcard.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_smbus.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_spi.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tim.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_tsc.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_uart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_usart.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2s.c" lastModified="150dcc496e8">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_comp.c" lastModified="150dcc497f3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac.h" lastModified="150dcc49773">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac_ex.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_wwdg.h" lastModified="150dcc499e5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_msp_template.c" lastModified="150dcc4965c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h" lastModified="150dcc498e9">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\stm32f0xx.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_spi.c" lastModified="150dcc4973c">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dma.c" lastModified="150dcc49992">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_gpio_ex.h" lastModified="150dcc49975">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_i2c_ex.c" lastModified="150dcc49a7f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash_ex.c" lastModified="150dcc49865">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_rcc.c" lastModified="150dcc49a73">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_dac_ex.h" lastModified="150dcc495ff">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_pwr_ex.h" lastModified="150dcc496aa">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_tsc.c" lastModified="150dcc49920">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cm0.h" lastModified="150dcc4799b">
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cmInstr.h"/>
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\C_library\source\syscalls.c" lastModified="150dcc50223">
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_uart_ex.c" lastModified="150dcc495a7">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_adc_ex.h" lastModified="150dcc49877">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rtc_ex.h" lastModified="150dcc4979f">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_dac_ex.c" lastModified="150dcc499f3">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_pwr_ex.c" lastModified="150dcc498f5">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Src\stm32f0xx_hal_flash.c" lastModified="150dcc49a67">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_rcc_ex.h" lastModified="150dcc4956b">
+         <include file="..\..\..\components\coocox-master\stm32f051x8_boot\source\Inc\stm32f0xx_hal_def.h"/>
+      </source>
+   </includePath>
+</dependencies>
